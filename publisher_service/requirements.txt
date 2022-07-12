@@ -1,0 +1,6 @@
+uvicorn==0.17.6
+fastapi==0.78.0
+SQLAlchemy==1.4.39
+databases[postgresql]==0.6.0
+httpx==0.23.0
+psycopg2==2.9.3
